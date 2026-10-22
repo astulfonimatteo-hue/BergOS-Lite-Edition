@@ -34,3 +34,9 @@ Built on an Ubuntu LTS base with the **XFCE** desktop environment, BergOS Lite p
 - **RAM:** 2 GB minimum (4 GB recommended)
 - **Storage:** 15 GB available disk space
 - **Graphics:** Any VGA capable graphics adapter
+
+---
+
+## Project Roadmap
+
+BergOS is developed incrementally across four distinct editions. To see upcoming features, release milestones, and the long-term vision for the project, check out the [Official BergOS Roadmap](https://github.com/astulfonimatteo-hue/Berg_Linux/blob/main/ROADMAP.md).
