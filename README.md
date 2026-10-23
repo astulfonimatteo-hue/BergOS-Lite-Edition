@@ -3,6 +3,8 @@
 <img width="1179" height="1146" alt="IMG_1839" src="https://github.com/user-attachments/assets/291b2b6c-0da4-4bf1-bad8-ea5441c6c1d0" />
 
 
+_The main repository of the project is at this [link](https://github.com/astulfonimatteo-hue/Berg_Linux)_
+
 **BergOS Lite** is a high-performance, lightweight edition tailored for older 64-bit computers, laptops with low memory, and systems requiring minimal background resource usage.
 
 Built on an Ubuntu LTS base with the **XFCE** desktop environment, BergOS Lite preserves full modern software compatibility while delivering speed, efficiency, and system responsiveness.
