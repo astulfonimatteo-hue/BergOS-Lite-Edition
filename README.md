@@ -7,7 +7,7 @@ _The main repository of the project is at this [link](https://github.com/astulfo
 
 **BergOS Lite** is a high-performance, lightweight edition tailored for older 64-bit computers, laptops with low memory, and systems requiring minimal background resource usage.
 
-Built on an Ubuntu LTS base with the **XFCE** desktop environment, BergOS Lite preserves full modern software compatibility while delivering speed, efficiency, and system responsiveness.
+Built on a Debian 13 base with the **XFCE** desktop environment, BergOS Lite preserves full modern software compatibility while delivering speed, efficiency, and system responsiveness.
 
 ---
 
@@ -24,7 +24,7 @@ Built on an Ubuntu LTS base with the **XFCE** desktop environment, BergOS Lite p
 ## Technical Specifications
 
 - **Architecture:** 64-bit (`x86_64`)
-- **Base System:** Xubuntu / Ubuntu LTS
+- **Base System:** Debian 13 "Trixie"
 - **Desktop Environment:** XFCE
 - **Installer:** Calamares
 - **Display Manager:** LightDM
