@@ -13,7 +13,7 @@ Built on an Arch Linux base with the **i3** desktop environment, BergOS Lite pre
 
 ## Key Features
 
-- **Lightweight & Fast:** Powered by XFCE for maximum responsiveness and minimal RAM consumption.
+- **Lightweight & Fast:** Powered by i3 for maximum responsiveness and minimal RAM consumption.
 - **Reduced Background Services:** Trimmed system startup services to ensure low CPU and memory footprints.
 - **Graphical Installation:** Uses the Calamares installer for a quick and effortless setup.
 - **Full 64-bit Compatibility:** Access to the full repository ecosystem, Flatpak support, and modern web browsers.
